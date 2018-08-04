@@ -1,7 +1,8 @@
 # FinancialManagementSystemServer
 
 1. clone
-> `git clone git@github.com:JosonKing/FinancialManagementSystemServer.git`</br>
+> `git clone git@github.com:JosonKing/FinancialManagementSystemServer.git`
+<br />>
 > `cd ./FinancialManagementSystemServer`
 
 2. install
