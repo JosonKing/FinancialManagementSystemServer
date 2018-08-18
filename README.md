@@ -14,6 +14,7 @@ Based on express, the server CRUD demo.
 3. db(mysql)
 > Create a database
 > `CREATE DATABASE fms;`
+>
 > import data
 > `/config/fms.sql`
 
