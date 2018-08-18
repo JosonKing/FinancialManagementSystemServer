@@ -11,7 +11,13 @@ Based on express, the server CRUD demo.
 2. install
 > `$ cnpm i`
 
-3. start
+3. db(mysql)
+> Create a database
+> `CREATE DATABASE fms;`
+> import data
+> `/config/fms.sql`
+
+4. start
 > `$ set DEBUG=FinancialManagementSystemServer & npm start`
 
 # API
