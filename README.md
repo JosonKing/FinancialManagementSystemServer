@@ -12,7 +12,7 @@ Based on express, the server CRUD demo.
 > `$ cnpm i`
 
 3. db(mysql)
-> Create a database
+> create a database
 > `CREATE DATABASE fms;`
 >
 > import data
